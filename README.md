@@ -1,3 +1,17 @@
+![bird1](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird1.png)
+![bird1ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird1ST.png)
+![bird2](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird2.png)
+![bird2ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird2ST.png)
+![bird3](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird3.png)
+![bird3ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird3ST.png)
+
+
+
+
+
+
+
+
 # Final Project
 
 Jeffrey Yeung, c1yeung@ucsd.edu

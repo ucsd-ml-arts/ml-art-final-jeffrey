@@ -10,11 +10,19 @@ Bird image after style transfer:
 
 ![bird1ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird1ST.png)
 
+Second generated bird image from caption:
+
 ![bird2](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird2.png)
+
+After style transfer:
 
 ![bird2ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird2ST.png)
 
+Third example:
+
 ![bird3](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird3.png)
+
+After style transfer:
 
 ![bird3ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird3ST.png)
 

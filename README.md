@@ -1,8 +1,8 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Jeffrey Yeung, c1yeung@ucsd.edu
 
-(Your teammates' contact info, if appropriate)
+## WILL COMPLETE BY FRIDAY DEADLINE
 
 ## Abstract Proposal
 

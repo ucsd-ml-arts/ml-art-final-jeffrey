@@ -12,9 +12,12 @@ Uploaded as Final_Report.pdf
 
 ## Model/Data
 
-sciencetext.csv - Contains texts of video descriptions for science and nature related videos.
+sciencetext.csv - Contains texts of video descriptions for science and nature related videos
+
 people.jpg, colors.jpg, glass.jpg - Style images for applying style transfer
+
 data, miscc folder - Contains data required for AttnGAN
+
 model.py, GlobalAttention.py - Used to run AttnGAN to generate images from caption
 
 ## Code

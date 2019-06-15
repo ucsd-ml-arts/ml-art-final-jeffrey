@@ -1,3 +1,28 @@
+# Final Project
+
+Jeffrey Yeung, c1yeung@ucsd.edu
+
+## Abstract Proposal
+
+For this project, I want to revisit and combine the techniques used in project 1: text generation, and project 4: style transfer. I want to generate a description of an object using character-based RNN then turn that description into an image, and finally applying style transfer onto it to make it look more artistic and unique. I think this will be an interesting process because every step of the process will be generated, and the only input I am providing is the training corpus text file.
+
+## Project Report
+
+Uploaded as Final_Report.pdf
+
+## Model/Data
+
+sciencetext.csv - Contains texts of video descriptions for science and nature related videos.
+people.jpg, colors.jpg, glass.jpg - Style images for applying style transfer
+data, miscc folder - Contains data required for AttnGAN
+model.py, GlobalAttention.py - Used to run AttnGAN to generate images from caption
+
+## Code
+
+- Jupyter notebooks: Final.ipynb
+
+## Results
+
 Generated text from video captions of science videos:
 
 'a blue bird flying in the sky'
@@ -25,49 +50,6 @@ Third example:
 After style transfer:
 
 ![bird3ST](https://github.com/ucsd-ml-arts/ml-art-final-jeffrey/blob/master/bird3ST.png)
-
-
-
-
-
-
-
-
-# Final Project
-
-Jeffrey Yeung, c1yeung@ucsd.edu
-
-## WILL COMPLETE BY FRIDAY DEADLINE
-
-## Abstract Proposal
-
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
-
-## Project Report
-
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
-
-## Model/Data
-
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
-
-## Code
-
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
-
-## Results
-
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
 
 ## Technical Notes
 

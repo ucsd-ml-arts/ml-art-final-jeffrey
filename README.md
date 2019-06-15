@@ -56,13 +56,18 @@ After style transfer:
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Besides the common packages, this project requires:
+
+tensorflow, torch, keras, scipy
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+https://www.tensorflow.org/tutorials/sequences/text_generation
+
+https://arxiv.org/pdf/1711.10485.pdf
+
+https://github.com/bprabhakar/text-to-image
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+https://arxiv.org/pdf/1508.06576v2.pdf
